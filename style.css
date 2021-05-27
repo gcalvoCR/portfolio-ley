@@ -1,0 +1,40 @@
+body {
+  color: #272267;
+}
+
+.header {
+  margin-top: 10px;
+  justify-content: space-between;
+}
+
+.logo {
+  font-size: 22px;
+  color: #272267 !important;
+}
+
+.opciones {
+  font-size: 18px;
+  color: #272267 !important;
+}
+
+header .main {
+  /* background-color: red; */
+}
+
+.banner {
+  align-items: center;
+  min-height: 90vh;
+  width: 100%;
+}
+
+.titulo {
+  width: 65%;
+  justify-content: center;
+  font-size: 50px;
+  letter-spacing: 0.025em;
+  margin: 0 auto;
+}
+
+.titulo span {
+  color: #6154ff;
+}
